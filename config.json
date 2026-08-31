@@ -130,8 +130,8 @@
 },
 {
 "type": "square",
-"title": "Markdown编辑器",
-"description": "专注创作而非视觉的MD编辑器",
+"title": "MD编辑器",
+"description": "专注创作而非视觉的Markdown编辑器",
 "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1788206720/24d72aaa2e06036740de11a7e77b67b8_compressed.jpg",
 "link": "https://markmoo.jojocharm.top/",
 "borderColor": "rgba(244,63,94,0.5)",

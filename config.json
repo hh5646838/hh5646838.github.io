@@ -1,8 +1,8 @@
 {
   "profile": {
     "name": "JoJocharm",
-    "avatar": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787087515/logo_jojo.jpg",
-    "wechatQrCode": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787156531/Weixin_Image_20260813161055_2366_2.jpg",
+    "avatar": "shturl.cc/WOqcUbRcZPfR9e7iE5alJS9RdQyd0spoC3KrrBZOn3fcJ0YW8WibOg591hQw3g1BcOhn26s8h8ruG3",
+    "wechatQrCode": "shturl.cc/LCGxdlDtB48JvaXAxzUsBLi1SbajKZDlK1Km5vbeKnMZmvP1AvX6JKwQPSLEVTidOnX5HXAuWtb75QICw8WChVx2WGpq4IcFcDMLYFF",
     "wechatName": "JoJo茶酒志",
     "bilibiliUrl": "https://b23.tv/3hN5Cjb"
   },
@@ -16,7 +16,7 @@
       "top": "15%",
       "delay": 0,
       "duration": 7,
-      "fontSize": "text-2xl md:text-3xl"
+      "fontSize": "text-xl sm:text-2xl md:text-3xl"
     },
     {
       "text": "摇滚乐",
@@ -26,7 +26,7 @@
       "top": "30%",
       "delay": 0.5,
       "duration": 8,
-      "fontSize": "text-3xl md:text-4xl"
+      "fontSize": "text-2xl sm:text-3xl md:text-4xl"
     },
     {
       "text": "茶",
@@ -36,7 +36,7 @@
       "top": "60%",
       "delay": 1,
       "duration": 9,
-      "fontSize": "text-xl md:text-2xl"
+      "fontSize": "text-lg sm:text-xl md:text-2xl"
     },
     {
       "text": "摄影",
@@ -46,7 +46,7 @@
       "top": "50%",
       "delay": 1.5,
       "duration": 7.5,
-      "fontSize": "text-3xl md:text-4xl"
+      "fontSize": "text-2xl sm:text-3xl md:text-4xl"
     },
     {
       "text": "老镜头",
@@ -56,7 +56,7 @@
       "top": "75%",
       "delay": 2,
       "duration": 8.5,
-      "fontSize": "text-2xl md:text-3xl"
+      "fontSize": "text-xl sm:text-2xl md:text-3xl"
     }
   ],
   "sections": [
@@ -67,7 +67,7 @@
           "type": "horizontal",
           "title": "微距",
           "description": "探索微小世界",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787156913/micro_plant2.jpg",
+          "image": "shturl.cc/ZoiD4olUGOQTh038zMt1B8LDlnhxJCrzIBiDCfoiTZTmzH8qGy5rtF80JmKF8XH2nKpygFgI5ZIg29jo7",
           "link": "https://hh5646838.github.io/Photography/",
           "borderColor": "rgba(59,130,246,0.5)",
           "gradientFrom": "from-blue-500",
@@ -77,7 +77,7 @@
           "type": "vertical",
           "title": "动物",
           "description": "世界千姿百态",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787157485/DSC02912_metool.jpg",
+          "image": "shturl.cc/Tr8VNxOXCBTSpqlpzpt7zgsFVsh61gtuuEIQkZCaFj06KE0cU12ARkJOWZ7fRFbf4ELOXEPp5nmjMyLDWW7K",
           "link": "https://hh5646838.github.io/Photography/",
           "borderColor": "rgba(236,72,153,0.5)",
           "gradientFrom": "from-pink-500",
@@ -87,7 +87,7 @@
           "type": "square",
           "title": "城市",
           "description": "前往B站",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787087217/lux1.jpg",
+          "image": "shturl.cc/Zisw8sP8cFmcMhxINBtAzEgParmEPkjImfAINuzfxsrVOffZuxxyIlfeRsMgsIC2J1im6029h",
           "link": "https://b23.tv/cL1lryE",
           "borderColor": "rgba(251,146,60,0.5)",
           "gradientFrom": "from-orange-500",
@@ -97,7 +97,7 @@
           "type": "square",
           "title": "黑白",
           "description": "前往500px",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787157984/bw_stair1.jpg",
+          "image": "shturl.cc/i9acGzQ0i7oNFdn6ytxBY2zHwWBsPtrtzfkb24OQSYMPn6DVGWGfoeh2O1CQGmuAvbWgh1q5Nrtcfq",
           "link": "https://500px.com.cn/community/user-details/f8a94c0284797ad15949efa30b8103929?rs=f8a94c0284797ad15949efa30b8103929",
           "borderColor": "rgba(20,184,166,0.5)",
           "gradientFrom": "from-teal-500",
@@ -105,14 +105,14 @@
         }
       ]
     },
-	{
+    {
       "title": "轻量化工具",
       "modules": [
         {
           "type": "horizontal",
           "title": "照片生成色卡与渐变色",
           "description": "照片提取色卡，不再烦恼配色",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787856122/Weixin_Image_20260828004521_2738_2_compressed.jpg",
+          "image": "shturl.cc/IdQsauIystnHtuQSOtCccROazTC53esnLW7jDTFkisET2v8Qr4WzaNBlZYlPATbjXVHRwBnHw7ClKUbJR7UowyJjIfDxGIAnBu6T3P8ie5OjexSZAm",
           "link": "https://hh5646838.github.io/gradiants/",
           "borderColor": "rgba(168,85,247,0.5)",
           "gradientFrom": "from-purple-600",
@@ -122,7 +122,7 @@
           "type": "square",
           "title": "公众号一键排版",
           "description": "巧用markdown大幅节约排版时间",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787856123/Weixin_Image_20260828004526_2743_2_compressed.jpg",
+          "image": "shturl.cc/uysDLAaqXmqECoOiMnmRPXWKCUJN1xO7qTai2dmIU4osKhGgcwnTFlVjlCnYL0msIo5fzEUneTSPBo4jLAy29eSQMJuLxWEXenbxB7Ap9Fwt22pNuC",
           "link": "https://hh5646838.github.io/markdown/",
           "borderColor": "rgba(244,63,94,0.5)",
           "gradientFrom": "from-rose-600",
@@ -130,29 +130,29 @@
         },
         {
           "type": "square",
-          "title": "专业Markdwon编辑器",
+          "title": "专业Markdown编辑器",
           "description": "专注创作而非视觉的MD编辑器",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787158881/coctl_molecuar1.jpg",
+          "image": "shturl.cc/NwOQhatKp6AhFehkzoOQX1aQGPEATh0QXfhcX6BgMpYIwtAGfHHYqZvQIU4rFjWqqklJoIE8IKXAdFSxUXJ4",
           "link": "https://markmoo.jojocharm.top/",
-          "borderColor": "rgba(244,63,94,0.5)",
-          "gradientFrom": "from-rose-600",
-          "gradientTo": "to-red-600"
+          "borderColor": "rgba(236,72,153,0.5)",
+          "gradientFrom": "from-pink-600",
+          "gradientTo": "to-fuchsia-500"
         },
         {
           "type": "square",
           "title": "无限脑图",
           "description": "探索头脑风暴的无限可能",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1788200298/Weixin_Image_20260901021439_2783_2_compressed.jpg",
+          "image": "shturl.cc/gTTQ57SIgGtv1ie4pc62Dh6BRUcdfpSEauWcvin7wpY7ZJVONPMyndNtnJI4DjMTVBHzJFhyfPyHXGXIZgHs6HMzfSz4IQqw6LcCnTDX8gVsD1bqVw",
           "link": "https://mindmoo.jojocharm.top",
           "borderColor": "rgba(34,197,94,0.5)",
           "gradientFrom": "from-green-500",
           "gradientTo": "to-lime-500"
         },
-		{
+        {
           "type": "square",
           "title": "前往工具库主页",
           "description": "更多实用轻量化工具",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787056136/Joy-Division.jpg",
+          "image": "shturl.cc/hwPbqPYcffrPui8nYzxy8SAJ3b9Pa8u2FARavyqzwMdGqGSiad8WPbXWaJ3lG7iGOFjPT8qF5ehRACaCv",
           "link": "https://hh5646838.github.io/JoJo/",
           "borderColor": "rgba(34,197,94,0.5)",
           "gradientFrom": "from-green-500",
@@ -167,7 +167,7 @@
           "type": "horizontal",
           "title": "调酒艺术",
           "description": "回味经典鸡尾酒",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787158347/cocktail_moscowmule.jpg",
+          "image": "shturl.cc/QgB9FZWOmA5PHoP7nNuGBH2eZSrDX333ORhtaETLW72A7uLLX9ncmI5n5sjdZn5xeOTErjIppA6ZQUTImvBjd8BH",
           "link": "https://hh5646838.github.io/JoJo/",
           "borderColor": "rgba(168,85,247,0.5)",
           "gradientFrom": "from-purple-600",
@@ -175,9 +175,9 @@
         },
         {
           "type": "square",
-          "title": "调酒艺术",
+          "title": "调酒工具",
           "description": "优雅地使用工具",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787071665/cotail_jiggle.jpg",
+          "image": "shturl.cc/fB8avX1uo4JwCEvbcwNN9Xn0fvcZ1pZr0PDJkyfIGAFrmelRbL6tU9qlAUIjwsZfylmSMwaU7a8QxlMATv",
           "link": "https://mp.weixin.qq.com/s/gnUPzsbrEkSgnBYYBUS3Ew",
           "borderColor": "rgba(244,63,94,0.5)",
           "gradientFrom": "from-rose-600",
@@ -185,10 +185,10 @@
         },
         {
           "type": "square",
-          "title": "更多分子鸡尾酒",
+          "title": "分子鸡尾酒",
           "description": "前往我的公众号",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787158881/coctl_molecuar1.jpg",
-          "link": "https://hh5646838.github.io/JoJo/",
+          "image": "shturl.cc/NwOQhatKp6AhFehkzoOQX1aQGPEATh0QXfhcX6BgMpYIwtAGfHHYqZvQIU4rFjWqqklJoIE8IKXAdFSxUXJ4",
+          "link": "https://mp.weixin.qq.com/s/gnUPzsbrEkSgnBYYBUS3Ew",
           "borderColor": "rgba(244,63,94,0.5)",
           "gradientFrom": "from-rose-600",
           "gradientTo": "to-red-600"
@@ -197,7 +197,7 @@
           "type": "square",
           "title": "调酒理论",
           "description": "探索鸡尾酒的无限可能",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787056136/Joy-Division.jpg",
+          "image": "shturl.cc/hwPbqPYcffrPui8nYzxy8SAJ3b9Pa8u2FARavyqzwMdGqGSiad8WPbXWaJ3lG7iGOFjPT8qF5ehRACaCv",
           "link": "https://hh5646838.github.io/JoJo/",
           "borderColor": "rgba(34,197,94,0.5)",
           "gradientFrom": "from-green-500",
@@ -212,7 +212,7 @@
           "type": "square",
           "title": "Joy Division",
           "description": "孤独与疯狂",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787056136/Joy-Division.jpg",
+          "image": "shturl.cc/hwPbqPYcffrPui8nYzxy8SAJ3b9Pa8u2FARavyqzwMdGqGSiad8WPbXWaJ3lG7iGOFjPT8qF5ehRACaCv",
           "link": "https://hh5646838.github.io/jojocollection/",
           "borderColor": "rgba(168,85,247,0.5)",
           "gradientFrom": "from-purple-600",
@@ -222,7 +222,7 @@
           "type": "square",
           "title": "Pink Floyd",
           "description": "复杂与创新",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787149800/1212454711.jpg",
+          "image": "shturl.cc/TmKszUKnmqkTSugPb9KuoUM5gpP9TV7TpYydNx3Wfnx4S7kFKdbofdU5jn9G0LGuRsagi2IOXkr7bDa",
           "link": "https://hh5646838.github.io/jojocollection/",
           "borderColor": "rgba(244,63,94,0.5)",
           "gradientFrom": "from-rose-600",
@@ -232,7 +232,7 @@
           "type": "square",
           "title": "Кино",
           "description": "忧郁与批判",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787159996/109951170248108680.webp",
+          "image": "shturl.cc/PTnTG3z2YTXpcq2gYK2jMk5ICPpjVx9HrYzzUsyQ0cHALirBRSwjCDDmqf2YYI6MjxY1nrh6e0epY1xYs4XkYEDN",
           "link": "https://hh5646838.github.io/jojocollection/",
           "borderColor": "rgba(34,197,94,0.5)",
           "gradientFrom": "from-green-500",
@@ -242,7 +242,7 @@
           "type": "square",
           "title": "The Cure",
           "description": "哥特与浪漫",
-          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787160520/thecure2019.jpg",
+          "image": "shturl.cc/8e08tpTMCdLNFVAcZX11iXfsjHbVqp86CRhQW32gI3A2Yh2yYntu9bdI9ZbWT0cggo3sQWGBWiYADT5e",
           "link": "https://hh5646838.github.io/jojocollection/",
           "borderColor": "rgba(34,197,94,0.5)",
           "gradientFrom": "from-green-500",

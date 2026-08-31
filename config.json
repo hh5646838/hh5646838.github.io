@@ -1,4 +1,4 @@
-{
+\{
   "profile": {
     "name": "JoJocharm",
     "avatar": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787087515/logo_jojo.jpg",
@@ -102,6 +102,61 @@
           "borderColor": "rgba(20,184,166,0.5)",
           "gradientFrom": "from-teal-500",
           "gradientTo": "to-emerald-500"
+        }
+      ]
+    },
+	{
+      "title": "轻量化工具",
+      "modules": [
+        {
+          "type": "horizontal",
+          "title": "照片生成色卡与渐变色",
+          "description": "照片提取色卡，不再烦恼配色",
+          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787856122/Weixin_Image_20260828004521_2738_2_compressed.jpg",
+          "link": "https://hh5646838.github.io/gradiants/",
+          "borderColor": "rgba(168,85,247,0.5)",
+          "gradientFrom": "from-purple-600",
+          "gradientTo": "to-fuchsia-600"
+        },
+        {
+          "type": "square",
+          "title": "公众号一键排版",
+          "description": "巧用markdown大幅节约排版时间",
+          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787856123/Weixin_Image_20260828004526_2743_2_compressed.jpg",
+          "link": "https://hh5646838.github.io/markdown/",
+          "borderColor": "rgba(244,63,94,0.5)",
+          "gradientFrom": "from-rose-600",
+          "gradientTo": "to-red-600"
+        },
+        {
+          "type": "square",
+          "title": "专业Markdwon编辑器",
+          "description": "专注创作而非视觉的MD编辑器",
+          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787158881/coctl_molecuar1.jpg",
+          "link": "https://markmoo.jojocharm.top/",
+          "borderColor": "rgba(244,63,94,0.5)",
+          "gradientFrom": "from-rose-600",
+          "gradientTo": "to-red-600"
+        },
+        {
+          "type": "square",
+          "title": "无限脑图",
+          "description": "探索头脑风暴的无限可能",
+          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1788200298/Weixin_Image_20260901021439_2783_2_compressed.jpg",
+          "link": "https://mindmoo.jojocharm.top",
+          "borderColor": "rgba(34,197,94,0.5)",
+          "gradientFrom": "from-green-500",
+          "gradientTo": "to-lime-500"
+        },
+		{
+          "type": "square",
+          "title": "前往工具库主页",
+          "description": "更多实用轻量化工具",
+          "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787056136/Joy-Division.jpg",
+          "link": "https://hh5646838.github.io/JoJo/",
+          "borderColor": "rgba(34,197,94,0.5)",
+          "gradientFrom": "from-green-500",
+          "gradientTo": "to-lime-500"
         }
       ]
     },

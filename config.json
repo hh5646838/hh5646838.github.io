@@ -19,7 +19,7 @@
 "fontSize": "text-2xl md:text-3xl"
 },
 {
-"text": "摇滚乐",
+"text": "轻量化工具",
 "color": "#f472b6",
 "rotation": 25,
 "right": "10%",
@@ -29,7 +29,7 @@
 "fontSize": "text-3xl md:text-4xl"
 },
 {
-"text": "茶",
+"text": "摇滚乐迷",
 "color": "#34d399",
 "rotation": -15,
 "left": "12%",
@@ -132,7 +132,7 @@
 "type": "square",
 "title": "专业Markdwon编辑器",
 "description": "专注创作而非视觉的MD编辑器",
-"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787158881/coctl_molecuar1.jpg",
+"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1788197737/Weixin_Image_20260901013210_2782_2_compressed.jpg",
 "link": "https://markmoo.jojocharm.top/",
 "borderColor": "rgba(244,63,94,0.5)",
 "gradientFrom": "from-rose-600",

@@ -6,7 +6,7 @@
 "wechatName": "JoJo茶酒志",
 "bilibiliUrl": "https://b23.tv/3hN5Cjb"
 },
-"footerText": "热爱生活，热爱创造。在这里分享我的摄影作品、鸡尾酒和摇滚收藏。每一张照片都承载着一段记忆，每一段文字都记录着成长的足迹。",
+"footerText": "热爱生活，热爱创造。在这里分享我的轻量化工具、摄影作品、鸡尾酒和摇滚收藏。每一张照片都承载着一段记忆，每一段文字都记录着成长的足迹。",
 "floatingTexts": [
 {
 "text": "鸡尾酒",
@@ -66,7 +66,7 @@
 {
 "type": "horizontal",
 "title": "微距",
-"description": "探索微小世界",
+"description": "探索微小世界 摄影主页 >",
 "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787156913/micro_plant2.jpg",
 "link": "https://hh5646838.github.io/Photography/",
 "borderColor": "rgba(59,130,246,0.5)",
@@ -76,7 +76,7 @@
 {
 "type": "vertical",
 "title": "动物",
-"description": "世界千姿百态",
+"description": "世界千姿百态 摄影主页 >",
 "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787157485/DSC02912_metool.jpg",
 "link": "https://hh5646838.github.io/Photography/",
 "borderColor": "rgba(236,72,153,0.5)",
@@ -86,7 +86,7 @@
 {
 "type": "square",
 "title": "城市",
-"description": "前往B站",
+"description": "前往B站 > ",
 "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787481466/DSC03133_copy.jpg",
 "link": "https://b23.tv/cL1lryE",
 "borderColor": "rgba(251,146,60,0.5)",
@@ -96,7 +96,7 @@
 {
 "type": "square",
 "title": "黑白",
-"description": "前往500px",
+"description": "前往500px >",
 "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787481458/DSC02974.jpg",
 "link": "https://500px.com.cn/community/user-details/f8a94c0284797ad15949efa30b8103929?rs=f8a94c0284797ad15949efa30b8103929",
 "borderColor": "rgba(20,184,166,0.5)",
@@ -151,8 +151,8 @@
 {
 "type": "square",
 "title": "工具库主页",
-"description": "更多实用轻量化工具",
-"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1788203283/1687694fb98bda2d7447456f3e1648dc_compressed.jpg",
+"description": "更多实用轻量化工具 >",
+"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787053936/samples/zoom.avif",
 "link": "https://www.jojocharm.top/",
 "borderColor": "rgba(34,197,94,0.5)",
 "gradientFrom": "from-green-500",
@@ -192,16 +192,6 @@
 "borderColor": "rgba(244,63,94,0.5)",
 "gradientFrom": "from-rose-600",
 "gradientTo": "to-red-600"
-},
-{
-"type": "square",
-"title": "前往公众号",
-"description": "探索鸡尾酒的无限可能",
-"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787053936/samples/zoom.avif",
-"link": "https://hh5646838.github.io/JoJo/",
-"borderColor": "rgba(34,197,94,0.5)",
-"gradientFrom": "from-green-500",
-"gradientTo": "to-lime-500"
 }
 ]
 },

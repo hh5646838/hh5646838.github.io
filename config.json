@@ -210,7 +210,7 @@
 "title": "鸡尾酒",
 "modules": [
 {
-"type": "horizontal",
+"type": "vertical",
 "title": "调酒艺术",
 "description": "回味经典鸡尾酒",
 "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1788342692/c3982fef-ba64-4417-9245-1e428e9a3fe6.png",

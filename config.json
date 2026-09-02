@@ -161,41 +161,6 @@
 ]
 },
 {
-"title": "鸡尾酒",
-"modules": [
-{
-"type": "horizontal",
-"title": "调酒艺术",
-"description": "回味经典鸡尾酒",
-"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787158347/cocktail_moscowmule.jpg",
-"link": "https://mp.weixin.qq.com/s/avTAb1o38f1rCDR2NrLC1w",
-"borderColor": "rgba(168,85,247,0.5)",
-"gradientFrom": "from-purple-600",
-"gradientTo": "to-fuchsia-600"
-},
-{
-"type": "square",
-"title": "调酒艺术",
-"description": "优雅地使用工具",
-"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787071665/cotail_jiggle.jpg",
-"link": "https://mp.weixin.qq.com/s/gnUPzsbrEkSgnBYYBUS3Ew",
-"borderColor": "rgba(244,63,94,0.5)",
-"gradientFrom": "from-rose-600",
-"gradientTo": "to-red-600"
-},
-{
-"type": "square",
-"title": "现代前沿",
-"description": "分子鸡尾酒",
-"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787158881/coctl_molecuar1.jpg",
-"link": "https://hh5646838.github.io/JoJo/",
-"borderColor": "rgba(244,63,94,0.5)",
-"gradientFrom": "from-rose-600",
-"gradientTo": "to-red-600"
-}
-]
-},
-{
 "title": "摇滚乐收藏",
 "modules": [
 {
@@ -237,6 +202,42 @@
 "borderColor": "rgba(34,197,94,0.5)",
 "gradientFrom": "from-green-500",
 "gradientTo": "to-lime-500"
+}
+]
+}
+,
+{
+"title": "鸡尾酒",
+"modules": [
+{
+"type": "horizontal",
+"title": "调酒艺术",
+"description": "回味经典鸡尾酒",
+"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787158347/cocktail_moscowmule.jpg",
+"link": "https://mp.weixin.qq.com/s/avTAb1o38f1rCDR2NrLC1w",
+"borderColor": "rgba(168,85,247,0.5)",
+"gradientFrom": "from-purple-600",
+"gradientTo": "to-fuchsia-600"
+},
+{
+"type": "square",
+"title": "调酒艺术",
+"description": "优雅地使用工具",
+"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787071665/cotail_jiggle.jpg",
+"link": "https://mp.weixin.qq.com/s/gnUPzsbrEkSgnBYYBUS3Ew",
+"borderColor": "rgba(244,63,94,0.5)",
+"gradientFrom": "from-rose-600",
+"gradientTo": "to-red-600"
+},
+{
+"type": "square",
+"title": "现代前沿",
+"description": "分子鸡尾酒",
+"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787158881/coctl_molecuar1.jpg",
+"link": "https://hh5646838.github.io/JoJo/",
+"borderColor": "rgba(244,63,94,0.5)",
+"gradientFrom": "from-rose-600",
+"gradientTo": "to-red-600"
 }
 ]
 }

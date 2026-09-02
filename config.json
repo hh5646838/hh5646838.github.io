@@ -221,20 +221,10 @@
 },
 {
 "type": "square",
-"title": "调酒艺术",
-"description": "优雅地使用工具",
-"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787071665/cotail_jiggle.jpg",
-"link": "https://mp.weixin.qq.com/s/gnUPzsbrEkSgnBYYBUS3Ew",
-"borderColor": "rgba(244,63,94,0.5)",
-"gradientFrom": "from-rose-600",
-"gradientTo": "to-red-600"
-},
-{
-"type": "square",
 "title": "现代前沿",
 "description": "分子鸡尾酒",
 "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787158881/coctl_molecuar1.jpg",
-"link": "https://hh5646838.github.io/JoJo/",
+"link": "https://xhslink.cn/o/2ao2Yu3AwDk",
 "borderColor": "rgba(244,63,94,0.5)",
 "gradientFrom": "from-rose-600",
 "gradientTo": "to-red-600"

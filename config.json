@@ -4,12 +4,12 @@
 "avatar": "https://res.cloudinary.com/vljhnkvn/image/upload/w_450,f_auto,q_auto/v1788367007/0f3cc650-099b-4e4e-8a48-2b53ca967dc2.png",
 "wechatQrCode": "https://res.cloudinary.com/vljhnkvn/image/upload/w_450,f_auto,q_auto/v1789617442/qrcode_for_gh_6894a145d697_258_1.jpg",
 "wechatName": "JoJocharm",
-"bilibiliUrl": "https://b23.tv/3hN5Cjb"
+"bilibiliUrl": "https://xhslink.cn/o/AAPJ1GCjmDm"
 },
-"footerText": "热爱生活，热爱创造。在这里分享我的轻量化工具、摄影作品、鸡尾酒和摇滚收藏。每一张照片都承载着一段记忆，每一段文字都记录着成长的足迹。",
+"footerText": "热爱世界，热爱创造。在这里分享我的轻量工具、摄影作品和摇滚收藏。每一张照片都承载着一段记忆，每一段文字都记录着成长的足迹。",
 "floatingTexts": [
 {
-"text": "鸡尾酒",
+"text": "摇滚收藏",
 "color": "#60a5fa",
 "rotation": -20,
 "left": "5%",
@@ -19,7 +19,7 @@
 "fontSize": "text-2xl md:text-3xl"
 },
 {
-"text": "轻量化",
+"text": "轻量",
 "color": "#f472b6",
 "rotation": 25,
 "right": "10%",
@@ -29,7 +29,7 @@
 "fontSize": "text-3xl md:text-4xl"
 },
 {
-"text": "摇滚乐迷",
+"text": "AI",
 "color": "#34d399",
 "rotation": -15,
 "left": "12%",
@@ -130,9 +130,9 @@
 },
 {
 "type": "square",
-"title": "MD编辑器",
-"description": "专注创作而非视觉的Markdown编辑器",
-"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1788206720/24d72aaa2e06036740de11a7e77b67b8_compressed.jpg",
+"title": "AI导航",
+"description": "AI模型，评测，开源项目 导航大全",
+"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_quto/v1787053927/samples/landscapes/architecture-signs.jpg",
 "link": "https://markmoo.jojocharm.top/",
 "borderColor": "rgba(244,63,94,0.5)",
 "gradientFrom": "from-rose-600",
@@ -202,32 +202,6 @@
 "borderColor": "rgba(34,197,94,0.5)",
 "gradientFrom": "from-green-500",
 "gradientTo": "to-lime-500"
-}
-]
-}
-,
-{
-"title": "鸡尾酒",
-"modules": [
-{
-"type": "vertical",
-"title": "调酒艺术",
-"description": "回味经典鸡尾酒",
-"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1788342692/c3982fef-ba64-4417-9245-1e428e9a3fe6.png",
-"link": "https://xhslink.cn/o/2FIQF5kUPnb ",
-"borderColor": "rgba(168,85,247,0.5)",
-"gradientFrom": "from-purple-600",
-"gradientTo": "to-fuchsia-600"
-},
-{
-"type": "square",
-"title": "现代前沿",
-"description": "分子鸡尾酒",
-"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787158881/coctl_molecuar1.jpg",
-"link": "https://xhslink.cn/o/2ao2Yu3AwDk",
-"borderColor": "rgba(244,63,94,0.5)",
-"gradientFrom": "from-rose-600",
-"gradientTo": "to-red-600"
 }
 ]
 }

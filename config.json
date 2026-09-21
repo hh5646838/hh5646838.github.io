@@ -9,7 +9,7 @@
 "footerText": "热爱世界，热爱创造。在这里分享我的轻量工具、摄影作品和摇滚收藏。每一张照片都承载着一段记忆，每一段文字都记录着成长的足迹。",
 "floatingTexts": [
 {
-"text": "摇滚收藏",
+"text": "AI",
 "color": "#60a5fa",
 "rotation": -20,
 "left": "5%",
@@ -29,7 +29,7 @@
 "fontSize": "text-3xl md:text-4xl"
 },
 {
-"text": "AI",
+"text": "摇滚收藏",
 "color": "#34d399",
 "rotation": -15,
 "left": "12%",
@@ -122,7 +122,7 @@
 "type": "square",
 "title": "AI导航",
 "description": "AI模型，评测，开源项目 导航大全",
-"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_quto/v1787053927/samples/landscapes/architecture-signs.jpg",
+"image": "https://res.cloudinary.com/vljhnkvn/image/upload/w_800,f_auto,q_auto/v1787053927/samples/landscapes/architecture-signs.jpg",
 "link": "https://markmoo.jojocharm.top/",
 "borderColor": "rgba(244,63,94,0.5)",
 "gradientFrom": "from-rose-600",

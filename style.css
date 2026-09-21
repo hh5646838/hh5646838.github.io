@@ -445,7 +445,7 @@ html, body {
   background: #a855f7;
 }
 
-.btn-bilibili {
+.btn-xiaohongshu {
   width: 100%;
   background: linear-gradient(to right, #ec4899, #9333ea);
   color: white;
@@ -453,7 +453,7 @@ html, body {
   font-size: 1rem;
 }
 
-.btn-bilibili:hover {
+.btn-xiaohongshu:hover {
   background: linear-gradient(to right, #f472b6, #a855f7);
 }
 

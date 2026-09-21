@@ -29,7 +29,7 @@ github-pages/
 ### 2. 修改配置
 
 编辑 `config.json`，根据你的需求修改：
-- **profile**: 个人信息（名称、头像路径、微信号、B站链接等）
+- **profile**: 个人信息（名称、头像路径、微信号、小红书链接等）
 - **floatingTexts**: 漂浮文字内容、颜色、位置
 - **sections**: Bento 模块的标题、描述、图片路径、链接等
 
@@ -85,7 +85,7 @@ https://你的用户名.github.io/仓库名/
     "avatar": "assets/avatar.png",
     "wechatQrCode": "assets/qrcode.png",
     "wechatName": "你的微信号",
-    "bilibiliUrl": "https://space.bilibili.com/你的ID"
+    "xiaohongshuUrl": "https://xhslink.cn/你的小红书短链接"
   },
   // ... 其他配置
 }

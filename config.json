@@ -85,16 +85,6 @@
 },
 {
 "type": "square",
-"title": "城市",
-"description": "前往B站 > ",
-"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787481466/DSC03133_copy.jpg",
-"link": "https://b23.tv/cL1lryE",
-"borderColor": "rgba(251,146,60,0.5)",
-"gradientFrom": "from-orange-500",
-"gradientTo": "to-amber-500"
-},
-{
-"type": "square",
 "title": "黑白",
 "description": "前往500px >",
 "image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787481458/DSC02974.jpg",
@@ -152,7 +142,7 @@
 "type": "square",
 "title": "工具库主页",
 "description": "更多实用轻量化工具 >",
-"image": "https://res.cloudinary.com/vljhnkvn/image/upload/f_auto,q_auto/v1787053936/samples/zoom.avif",
+"image": "https://res.cloudinary.com/vljhnkvn/image/upload/v1787053936/samples/zoom.avif",
 "link": "https://www.jojocharm.top/",
 "borderColor": "rgba(34,197,94,0.5)",
 "gradientFrom": "from-green-500",
